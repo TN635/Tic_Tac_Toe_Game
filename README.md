@@ -4,7 +4,7 @@ The game has the following requirements:
 The game should print the board every time a player makes a move.
 The game should be able to accept input from the player of the position where they want to place their marker.
 The game should check if a player has won the game after each move.
-The game should check if the game is a tie after all the positions on the board are filled.
+The game should check if the game results in a tie after all the positions on the board are filled.
 
 Additional details about the project:
 The game is implemented in Python.
